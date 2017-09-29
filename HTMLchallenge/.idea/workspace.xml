@@ -31,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Websitec.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Websitec.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Websitec.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Websited.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Websited.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Websited.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="665">
+              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,8 +90,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Websitee.html" />
         <option value="$PROJECT_DIR$/Websiteb.html" />
-        <option value="$PROJECT_DIR$/Websited.html" />
         <option value="$PROJECT_DIR$/Websitec.html" />
+        <option value="$PROJECT_DIR$/Websited.html" />
       </list>
     </option>
   </component>
@@ -165,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506667742999</updated>
-      <workItem from="1506667745736" duration="6954000" />
+      <workItem from="1506667745736" duration="8482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6954000" />
+    <option name="totallyTimeSpent" value="8482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -222,14 +222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Websited.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -253,6 +245,14 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Websited.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
