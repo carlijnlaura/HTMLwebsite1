@@ -82,6 +82,11 @@ li a:hover {
     padding-top: 40px;
 }
 
+#mywork {
+    text-align: center;
+    padding-top: 40px;
+}
+
 /* HERE BEGINS ALL THE INFORMATION ABOUT THE HR IN BETWEEN THE ABOUT/PHOTOS SECTIONS */
 hr {
     border: 1px solid #C6DEFF;
@@ -92,6 +97,13 @@ hr {
  p {
      text-align: center;
  }
+
+ /*Makes the hover effect on the images*/
+.zoom:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+}
 
 /* HERE IS THE INFORMATION ABOUT THE IMAGES ON THE 'MY PHOTOS' SECTION */
  img {
